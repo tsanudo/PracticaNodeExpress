@@ -50,11 +50,7 @@ cd PeriodicoApp
 npm install
 ```
 
-### 3. Configurar variables de entorno
-
-Copia el archivo `.env.example` a `.env` en el directorio `Node` y ajusta las variables según tu configuración.
-
-### 4. Ejecutar la aplicación
+### 3. Ejecutar la aplicación
 
 #### Backend
 
@@ -82,17 +78,6 @@ Accede a la aplicación en `http://localhost:4200`.
 
 ---
 
-## Contribución
-
-Para contribuir, sigue estos pasos:
-
-1. Realiza un fork del repositorio.
-2. Crea una rama para tu característica (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza tus cambios y haz commit (`git commit -m 'Añadir nueva característica'`).
-4. Haz push a la rama (`git push origin feature/nueva-caracteristica`).
-5. Crea un Pull Request describiendo tus cambios.
-
----
 
 ## Licencia
 
